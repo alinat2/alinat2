@@ -1,6 +1,6 @@
-- 👋 Hi everyone, my name is Alina Tu!
-- ✨ I graduated from the University of California, Irvine in 2021 with a B.A. in Psychology and a B.A. in Quantitative Economics.
-- 🌱 I’m currently a Lab Manager at UC Irvine's Spatial Neuroscience Lab in the School of Biological Sciences.
+- 👋 Hi everyone, my name is Alina Tu (she/her)!
+- ✨ I am a 1st-year PhD student at the University of California, Irvine's Department of Neurobiology and Behavior.
+- 🌱 I graduated with degrees in psychology and quantitative economics and minored in statistics.
 - 👀 My research interests include individual differences in spatial cognition and the effects of spatial anxiety on sex differences in navigation and video games.
 - 📫 Feel free to contact me via email: alinat2@uci.edu
 
