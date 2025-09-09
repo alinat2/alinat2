@@ -1,7 +1,7 @@
 - 👋 Hi everyone, my name is Alina Tu (she/her)!
-- ✨ I am a 2nd-year PhD student at the University of California, Irvine's Department of Neurobiology and Behavior.
+- ✨ I am a 3rd-year PhD student at the University of California, Irvine's Department of Neurobiology and Behavior.
 - 🌱 I graduated with degrees in psychology and quantitative economics and minored in statistics.
-- 👀 My research interests include individual differences in spatial navigation abilities and interventions on cognitive abilities.
+- 👀 My research interests include individual differences in spatial navigation abilities and interventions on cognitive skills.
 - 📫 Feel free to contact me via email: alinat2@uci.edu
 
 <!---
